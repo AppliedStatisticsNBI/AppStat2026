@@ -1,7 +1,7 @@
 
 [return to the main page](../README.md)
 
-# AppStat2025 - Instructions for installing the repository locally
+# AppStat2026 - Instructions for installing the repository locally
 ---
 
 

@@ -25,9 +25,9 @@ In your machine terminal, go to the directory where you want to save the exercis
     ```
     **Important:** Always make a copy of the notebook with a different name (e.g. *filename_yourname.ipynb*) before working on it, so your changes don't get overwritten when you pull the new exercises.
  
-- 4: Create a new conda environment: Download the .yaml file with the packages list from the [course website](https://www.nbi.dk/~petersen/Teaching/Stat2025/pythonpackages.html). Then from the Anaconda Prompt app (Windows) or your terminal (Mac/Linux), setup your conda environment with:
+- 4: Create a new conda environment: Download the .yaml file with the packages list from the [course website](https://www.nbi.dk/~petersen/Teaching/Stat2026/pythonpackages.html). Then from the Anaconda Prompt app (Windows) or your terminal (Mac/Linux), setup your conda environment with:
     ```bash
-    conda env create -f /path/to/file/AppStat25_environment.yaml
+    conda env create -f /path/to/file/AppStat26_environment.yaml
     ```
 
 - 5: [Install VS code](https://code.visualstudio.com/download)
@@ -41,6 +41,6 @@ In your machine terminal, go to the directory where you want to save the exercis
 
 - (Optional): At some point, you may want to install new packages in the conda environment. From the Anaconda Prompt app (Windows) or your terminal (Mac/Linux), enter the conda environment and run the standard pip install command for the package you want to install:
     ```bash
-    conda activate appstat25
+    conda activate appstat26
     pip install <PACKAGE NAME>
     ```

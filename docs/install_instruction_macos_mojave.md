@@ -53,7 +53,7 @@ You now have to install the Python packages listed on the course website. Some o
 
 *  In a folder of your choice, run the command for cloning the repository:
 
-  `git clone https://github.com/AppliedStatisticsNBI/AppStat2025.git .`
+  `git clone https://github.com/AppliedStatisticsNBI/AppStat2026.git .`
 
 
 To run a notebook, make sure you activate your anaconda environment by typing `anaconda3`. You are now set to work on the notebooks!
