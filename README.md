@@ -1,7 +1,7 @@
 # Applied Statistics 2026 - Code Repository
 
 This git is a repository of the code that will be used in the Applied Statistics code 2026/27 edition.
-*	[Course Main page](https://www.nbi.dk/~petersen/Teaching/AppliedStatistics2026.html)
+*	[Course Main page](https://petersen.web.cern.ch/)
 
 
 ## Getting Started
